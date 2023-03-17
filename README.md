@@ -96,4 +96,5 @@ $ npm start
 ## Extra Info
 The app was built using the MERN stack, and various other libraries such as React Router, Material UI, Formik, Yup, and Redux Toolkit. 
 
-Developed by @ThyChippy
+Developed by @ThyChippy for NEA coursework
+
