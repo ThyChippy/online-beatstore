@@ -94,4 +94,6 @@ $ npm start
 3. Access the application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Extra Info
-The app was built using the MERN stack, and various other libraries such as React Router, Material UI, Formik, Yup, and Redux Toolkit.
+The app was built using the MERN stack, and various other libraries such as React Router, Material UI, Formik, Yup, and Redux Toolkit. 
+
+Developed by @ThyChippy
